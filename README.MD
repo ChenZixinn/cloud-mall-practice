@@ -6,7 +6,7 @@
 <<<<<<< HEAD
 
 ##### 首页
-![img_1.png](img_1.png)
+![img_1.png]([img_1.png](https://github.com/ChenZixinn/imooc-mall/blob/master/img_1.png))
 
 ### 项目功能
 #### 前台
